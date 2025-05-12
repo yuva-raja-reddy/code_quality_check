@@ -1,0 +1,32 @@
+# Core dependencies
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# Data processing
+numpy
+pandas
+
+# Code parsing
+sqlparse
+
+# RAG components
+langchain
+langchain-google-genai
+sentence-transformers
+chromadb
+
+# Google Gemini API
+google-generativeai
+
+# File handling
+python-multipart
+
+# Testing
+pytest
+pytest-cov
+
+# UI serving (optional)
+starlette
+jinja2
